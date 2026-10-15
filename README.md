@@ -130,18 +130,6 @@ The goal is to demonstrate practical **SOC Tier 1 workflows**:
 
 ---
 
-## 🧰 Skills Demonstrated
-
-- Alert triage and prioritization
-- Email gateway, firewall, and proxy log analysis
-- Cross-source log correlation
-- Phishing and typosquatting identification
-- True Positive / False Positive determination
-- Impact assessment and escalation decisions
-- Clear, concise incident documentation
-
----
-
 ## ⚠️ Disclaimer
 
 This is an independent write-up of my own work and analysis. TryHackMe and its content, branding, and materials belong to TryHackMe.
